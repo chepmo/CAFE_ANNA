@@ -5,24 +5,23 @@
   letter-spacing:2px;
   text-shadow:1px 1px 2px rgba(0,0,0,0.4)
 }
-
-.dropdown-menu {
-  background:#03727d
-}
-a.dropdown-toggle {
-  color:#dfdfdf !important
-}
-a.dropdown-item:hover {
-  color:#03727d !important
-}
+// .dropdown-menu {
+//   background:#03727d
+// }
+// a.dropdown-toggle {
+//   color:#dfdfdf !important
+// }
+// a.dropdown-item:hover {
+//   color:#03727d !important
+// }
 .nav-item a{
   color:#dfdfdf;
 }
 .nav-item a:hover {
-  color:#fff
+  color: $jauneAnna;
 }
 .nav-item{
-  min-width:12vw;
+  min-width:20vw;
 }
 #mainNavigation {
   position:fixed;
@@ -37,8 +36,8 @@ background: -webkit-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%
 background: linear-gradient(to bottom,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
 }
-#navbarNavDropdown.collapsing .navbar-nav,
-#navbarNavDropdown.show .navbar-nav{
-  background:#037582;
-  padding:12px;
-}
+// #navbarNavDropdown.collapsing .navbar-nav,
+// #navbarNavDropdown.show .navbar-nav{
+//   background:#037582;
+//   padding:12px;
+// }
